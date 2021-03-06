@@ -1,0 +1,33 @@
+
+.name{
+    height: 200px;
+    width: 200px;
+    margin-top: -8px;
+    margin-left: -8px;
+    background-color: lightgrey;
+        padding: 20px;
+        border: solid 10px;
+        border-color:  black;
+}
+
+
+
+.top-container{
+    height: 200px;
+    width: 200px;
+    border: solid 20px;
+    border-color: black;
+    margin-left: 252px;
+    background-color: red;
+}
+.middle-container{
+    height: 200px;
+    width: 200px;
+    margin-left: 492px;
+    border: solid 10px;
+    border-color: black;
+    background-color : blue;
+}
+body{
+    size: auto;
+}
